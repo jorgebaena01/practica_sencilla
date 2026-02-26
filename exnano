@@ -1,0 +1,3 @@
+id,customer,product,review,sentiment
+1,123,A,"bad product",negative
+2,456,B,"great",positive
